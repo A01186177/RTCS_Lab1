@@ -13,7 +13,14 @@ void main(){
 	if(b=c){
 	   printf("resultado igual");
 	   }
+	if(b<c){
+	   printf("Resultado inferior");
+	   }
+	if(b>c){
+	   printf("Resultado superior");
+	   }
 	else{
-	   printf("resultado diferente");
+	   printf("error");
 	   }
 }
+
