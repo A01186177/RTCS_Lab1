@@ -4,4 +4,8 @@ void main(){
     for(t=10;t<0;t--){
 	printf("branch accepted");
 	}
+    int a=0
+    for(a=0;a<10;t++){
+	printf("second changes accepted");
+	}
 }
