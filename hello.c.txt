@@ -8,4 +8,12 @@ void main(){
     for(a=0;a<10;t++){
 	printf("second changes accepted");
 	}
+    int b
+    int c
+	if(b=c){
+	   printf("resultado igual");
+	   }
+	else{
+	   printf("resultado diferente");
+	   }
 }
