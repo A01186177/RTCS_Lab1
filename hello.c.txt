@@ -26,3 +26,5 @@ void main(){
 	   printf("error");
 	   }
 }
+int x=10
+int y=5
